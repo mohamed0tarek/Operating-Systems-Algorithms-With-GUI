@@ -36,6 +36,5 @@ Please refer to the individual README files in each directory for more detailed 
 
 Contributions to this repository are welcome! If you have any improvements, bug fixes, or additional algorithms to contribute, please follow the guidelines specified in the CONTRIBUTING.md file.
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE). You are free to modify and distribute the code according to the terms of the license.
+## The main Interface
+![my-Image](./algo.png)
